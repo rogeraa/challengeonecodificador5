@@ -35,5 +35,5 @@ fenterlimescimesdaidenters" => "felicidades"
 ## Diseño final
 
 <p align="center">
-    <img src="https://github.com/rogeraa/challengeonecodificador5/blob/master/img/Captura.PNG" width="450>
+    <img src="https://github.com/rogeraa/challengeonecodificador5/blob/master/img/Captura.PNG" width="450">
 </p>
